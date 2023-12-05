@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @WillowThePoet
-- 👀 I’m interested in coding, drawing, animation, and more life experiences
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Scratch Addons (for now)
-- 📫 How to reach me -null-
+- Hi, I’m on a rock floating in space.
+- uhh that's really it for now i think
 
 <!---
 WillowThePoet/WillowThePoet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
